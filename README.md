@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Anne Line Mizero
+# Hi there 👋 I'm Anne Line 
 
 ### Future Software Engineer | Backend Developer | Problem Solver
 
