@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Anne Line 
 
-### Future Software Engineer | Backend Developer | Problem Solver
+### Future Software Engineer | Backend Developer & Frontend Developer | Problem Solver
 
 I am passionate about building impactful software solutions and continuously improving my skills through real-world projects. I enjoy solving problems, learning new technologies, and creating systems that make life easier and smarter.
 
@@ -64,7 +64,7 @@ https://github.com/anneline-codes/Task-Management
 ## 🤝 Connect With Me
 
 - 📧 Email: lineanne65@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/anne-line-58a65639b/
+- 💼 LinkedIn: [Anne Line Mizero](https://www.linkedin.com/in/anne-line-58a65639b/)
 
 ---
 
