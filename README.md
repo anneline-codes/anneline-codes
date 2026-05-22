@@ -61,14 +61,6 @@ https://github.com/anneline-codes/Task-Management
 
 ---
 
-## 📊 GitHub Stats
-
-![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=anneline-codes&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anneline-codes&layout=compact)
-
----
-
 ## 🤝 Connect With Me
 
 - 📧 Email: lineanne65@gmail.com
